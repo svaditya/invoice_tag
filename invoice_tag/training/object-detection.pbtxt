@@ -1,0 +1,31 @@
+item {
+  id: 1
+  name: 'top_other'
+}
+item {
+  id: 2
+  name: 'company_detail'
+}
+item {
+  id: 3
+  name: 'customer_detail'
+}
+item {
+  id: 4
+  name: 'invoice_detail'
+}
+
+item {
+  id: 5
+  name: 'table'
+}
+
+item {
+  id: 6
+  name: 'table_total'
+}
+
+item {
+  id: 7
+  name: 'bottom_other'
+}
